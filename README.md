@@ -1,10 +1,9 @@
 # stimulsoft_report_node_js
 
-Topic: Demo for April Asia Company (#3185024)
-Time: Dec 5, 2024 16:00 Jakarta
+Kami tawarkan harga untuk :
+*Stimulsoft Reports.JS Enterprise*
+15 Developers, ESD (Download Version)
+*IDR  79,530,000* (exc. PPN*)
+Valid throuh 31-Des-2024
 
-Join Zoom Meeting
-https://us06web.zoom.us/j/82232662250?pwd=ZIrasHqgDmJId7MNMicSUkaE7dACmI.1
-
-Meeting ID: 822 3266 2250
-Passcode: 966559
+*) Dikarenakan regulasi Non-PKP, kami tidak dibolehkan memungut PPN. Bila PPN mandatory silahkan potong PPN sendiri
